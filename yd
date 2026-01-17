@@ -30,13 +30,6 @@ CGTN法语,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235412/6
 CGTN西班牙语,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235414/682652892.smil/index.m3u8?fmt=ts2hls
 CGTN阿拉伯语,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235408/682134875.smil/index.m3u8?fmt=ts2hls
 
-
-港澳台,#genre#
-凤凰中文,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8$手搓移动源
-凤凰资讯,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8$手搓移动源
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8$台湾源
-
-
 卫视,#genre#
 浙江卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228324/42329891.smil/index.m3u8?fmt=ts2hls$机顶盒源
 湖南卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228336/42329937.smil/index.m3u8?fmt=ts2hls$机顶盒源
@@ -75,6 +68,10 @@ CGTN阿拉伯语,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/322123
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8?timestamp=20250918201310&encrypt=0d467643e238bc87df466cd87b9a9834
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$官网源
 
+港澳台,#genre#
+凤凰中文,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8$手搓移动源
+凤凰资讯,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8$手搓移动源
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8$台湾源
 
 浙江,#genre#
 浙江钱江都市,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233005/396328815.smil/index.m3u8?fmt=ts2hls$机顶盒源
@@ -247,4 +244,6 @@ CCTV 4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/in
 浙江卫视4K,https://4ktv.cnbg.us/?id=zj
 山东卫视4K,https://4ktv.cnbg.us/?id=sd
 湖南卫视4K,https://4ktv.cnbg.us/?id=hn
+
+
 
